@@ -20,7 +20,7 @@ Criar uma solução digital que ajude os usuários a superar a dificuldade de in
 
 O projeto foi desenvolvido no contexto de uma imersão voltada à Engenharia de Software e ao desenvolvimento na era da Inteligência Artificial.
 
-> Adicione aqui as tecnologias efetivamente utilizadas no projeto, como TypeScript, React, HTML, CSS ou outras ferramentas.
+> As tecnologias efetivamente utilizadas no projeto, foram o TypeScript, React, HTML e CSS.
 
 ## 💡 Motivação
 
